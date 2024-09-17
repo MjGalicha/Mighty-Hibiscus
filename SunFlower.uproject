@@ -18,6 +18,10 @@
 		{
 			"Name": "AudioModulation",
 			"Enabled": true
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
 		}
 	]
 }
