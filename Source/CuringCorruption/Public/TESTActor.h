@@ -7,7 +7,7 @@
 #include "TESTActor.generated.h"
 
 UCLASS()
-class SUNFLOWER_API ATESTActor : public AActor
+class CURINGCORRUPTION_API ATESTActor : public AActor
 {
 	GENERATED_BODY()
 	

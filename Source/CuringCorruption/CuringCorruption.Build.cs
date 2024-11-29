@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class SunFlower : ModuleRules
+public class CuringCorruption : ModuleRules
 {
-	public SunFlower(ReadOnlyTargetRules Target) : base(Target)
+	public CuringCorruption(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

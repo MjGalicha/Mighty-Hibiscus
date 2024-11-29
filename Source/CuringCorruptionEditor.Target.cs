@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class SunFlowerEditorTarget : TargetRules
+public class CuringCorruptionEditorTarget : TargetRules
 {
-	public SunFlowerEditorTarget(TargetInfo Target) : base(Target)
+	public CuringCorruptionEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "SunFlower" } );
+		ExtraModuleNames.AddRange( new string[] { "CuringCorruption" } );
 	}
 }
